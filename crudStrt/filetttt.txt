@@ -1,8 +1,0 @@
-Studentsname:Valka_Suike/StudentsAge:142/Id:289
-Studentsname:Verka_Snstrie/StudentsAge:134/Id:779
-Studentsname:Vlerka_Sunike/StudentsAge:244/Id:769
-Studentsname:Vaera_Snstrike/StudentsAge:14/Id:349
-Studentsname:Valerka_Sunstrike/StudentsAge:17/Id:775
-Studentsname:Vaerka_Sunstrike/StudentsAge:44/Id:953
-Studentsname:Valeka_Strike/StudentsAge:18/Id:781
-Studentsname:Valka_Sunstrike/StudentsAge:4/Id:855
